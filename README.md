@@ -1,5 +1,5 @@
 # Rock_Paper_Scissors_Classification
-# Keterangan:
+### Keterangan:
 
 # Dataset diambil dari https://dicodingacademy.blob.core.windows.net/picodiploma/ml_pemula_academy/rockpaperscissors.zip
 # menggunakan teknik split folder
